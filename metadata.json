@@ -1,0 +1,6 @@
+{
+  "name": "业绩指标填报审批系统",
+  "description": "2026年业绩指标的双视角填报与审批数字化工作台，支持分数修改、状态扭转、批量审批与说明备注。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
